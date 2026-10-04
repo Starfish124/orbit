@@ -1,0 +1,12 @@
+{
+  "local": "laptop",
+  "hosts": {"studio": "studio.local"},
+  "mine": ["your-github-name"],
+  "themes": {
+    "WORK": ["acme-"],
+    "LEARNING": ["learn-", "toy-"]
+  },
+  "extra_roots": ["notes"],
+  "ignore": ["code/big-app/runtime-data"],
+  "github": true
+}
